@@ -6,5 +6,9 @@
 aaaaaaaaaaaaaaaaaaaaa
 111111111111111111111
 >>>>>>> branch 'master' of https://github.com/AnnEliCaeser/test1.git
+<<<<<<< HEAD
 
 asd12321313
+=======
+111
+>>>>>>> refs/remotes/origin/v2
